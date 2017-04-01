@@ -3,14 +3,30 @@ layout: page
 title: Asher Langton
 permalink: /
 ---
-I'm a security researcher, malware analyst, and amateur scam debunker.
+I'm a security researcher, malware analyst, and scam hunter.
 
-### Malware Posts
+### Posts
 * [More on Ransomware](http://forums.juniper.net/t5/Security-Now/More-on-Ransomware/ba-p/292080)
 * [New Threats in July 2016](http://forums.juniper.net/t5/Security-Now/New-threats-in-July-2016/ba-p/296553)
 * [Return-Oriented Programming and Malware Detection](http://forums.juniper.net/t5/Security-Now/Return-oriented-programming-and-malware-detection/ba-p/297966)
 * [A Walk Through AutoIT Malware](http://forums.juniper.net/t5/Security-Now/A-Walk-Through-AutoIT-Malware/ba-p/299843)
 * [Shamoon Returns](http://forums.juniper.net/t5/Security-Now/Shamoon-Returns/ba-p/301264)
+
+### Code
+* [Sky Advanced Threat Prevention](http://www.juniper.net/us/en/products-services/security/sky-advanced-threat-prevention/)
+   * malware sandboxing
+   * machine learning/efficacy
+   * [patents](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28%28IN%2FJacob+AND+IN%2FAsher%29+AND+IN%2FLangton%29&Refine=Refine+Search&Query=IN%2FJacob+and+IN%2FAsher+and+IN%2FLangton+and+AN%2Fjuniper)
+   * infrastructure
+  
+* [Kull Fusion Simulation](https://wci.llnl.gov/simulation/computer-codes)
+   * C++/Python/SWIG infrastructure and scalability
+   * porting/debugging on new HPC platforms
+
+* [GCC/GFortran](https://gcc.gnu.org/wiki/GFortran)
+   * Implemented [Cray pointers](https://gcc.gnu.org/onlinedocs/gfortran/Cray-pointers.html) and other legacy features
+
+* [Detecting gene-by-smoking interactions...using random forests](https://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-3-S7-S88)
 
 ### Media
 * [Bogus Security Company Can't Take Criticism, Issues Bogus DMCA Takedowns, Creates Sockpuppet Accounts](https://www.techdirt.com/articles/20150904/16030832168/bogus-security-company-cant-take-criticism-issues-bogus-dmca-takedowns-creates-sockpuppet-accounts.shtml)

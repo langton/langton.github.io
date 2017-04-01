@@ -3,7 +3,7 @@ layout: page
 title: Asher Langton
 permalink: /
 ---
-I'm a security researcher, malware analyst, and scam hunter.
+I'm a security researcher, malware analyst, and scam debunker.
 
 ### Posts
 * [More on Ransomware](http://forums.juniper.net/t5/Security-Now/More-on-Ransomware/ba-p/292080)

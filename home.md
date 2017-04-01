@@ -5,7 +5,7 @@ permalink: /
 ---
 I'm a security researcher, malware analyst, and scam debunker.
 
-### Posts
+### Words
 * [More on Ransomware](http://forums.juniper.net/t5/Security-Now/More-on-Ransomware/ba-p/292080)
 * [New Threats in July 2016](http://forums.juniper.net/t5/Security-Now/New-threats-in-July-2016/ba-p/296553)
 * [Return-Oriented Programming and Malware Detection](http://forums.juniper.net/t5/Security-Now/Return-oriented-programming-and-malware-detection/ba-p/297966)

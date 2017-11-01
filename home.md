@@ -5,7 +5,7 @@ permalink: /
 ---
 I'm a security researcher, malware analyst, and scam debunker.
 
-### Words
+### Blogs
 * [More on Ransomware](http://forums.juniper.net/t5/Security-Now/More-on-Ransomware/ba-p/292080)
 * [New Threats in July 2016](http://forums.juniper.net/t5/Security-Now/New-threats-in-July-2016/ba-p/296553)
 * [Return-Oriented Programming and Malware Detection](http://forums.juniper.net/t5/Security-Now/Return-oriented-programming-and-malware-detection/ba-p/297966)
@@ -13,7 +13,7 @@ I'm a security researcher, malware analyst, and scam debunker.
 * [Shamoon Returns](http://forums.juniper.net/t5/Security-Now/Shamoon-Returns/ba-p/301264)
 * [Mobile Malware and Sky ATP](https://forums.juniper.net/t5/Security-Now/Mobile-Malware-and-Sky-ATP/ba-p/314025)
 
-### Code
+### Code and Research
 * [Sky Advanced Threat Prevention](http://www.juniper.net/us/en/products-services/security/sky-advanced-threat-prevention/)
    * malware sandboxing
    * machine learning/efficacy
@@ -29,9 +29,10 @@ I'm a security researcher, malware analyst, and scam debunker.
 
 * [Detecting gene-by-smoking interactions...using random forests](https://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-3-S7-S88)
 
-### Media
+### Media Mentions
 * [How Secure Channels Attempted to Intimidate a Critic and Failed Spectacularly](https://www.popehat.com/2015/09/04/how-secure-channels-attempted-to-intimidate-a-critic-and-failed-spectacularly/)
 * [Bogus Security Company Can't Take Criticism...](https://www.techdirt.com/articles/20150904/16030832168/bogus-security-company-cant-take-criticism-issues-bogus-dmca-takedowns-creates-sockpuppet-accounts.shtml)
+* [Red Pill Boss](https://www.thedailybeast.com/red-pill-boss-all-feminists-want-to-be-raped)
 * [Hacker News on Leaping Brain's Flawed DRM](https://news.ycombinator.com/item?id=4834372)
 * [The New York Observer Published a Seemingly Fake Anti-Trump Story](http://freebeacon.com/politics/the-new-york-observer-published-a-seemingly-fake-anti-trump-story/)
 * [Charlatans: The New Wave of Privacy Profiteers](http://www.zdnet.com/article/charlatans-the-new-wave-of-privacy-profiteers/)

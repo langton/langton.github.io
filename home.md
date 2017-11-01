@@ -11,6 +11,7 @@ I'm a security researcher, malware analyst, and scam debunker.
 * [Return-Oriented Programming and Malware Detection](http://forums.juniper.net/t5/Security-Now/Return-oriented-programming-and-malware-detection/ba-p/297966)
 * [A Walk Through AutoIT Malware](http://forums.juniper.net/t5/Security-Now/A-Walk-Through-AutoIT-Malware/ba-p/299843)
 * [Shamoon Returns](http://forums.juniper.net/t5/Security-Now/Shamoon-Returns/ba-p/301264)
+* [Mobile Malware and Sky ATP](https://forums.juniper.net/t5/Security-Now/Mobile-Malware-and-Sky-ATP/ba-p/314025)
 
 ### Code
 * [Sky Advanced Threat Prevention](http://www.juniper.net/us/en/products-services/security/sky-advanced-threat-prevention/)
